@@ -1,0 +1,15 @@
+{
+    "name": "casabuena/student-management",
+    "description": "Basic Student Management System",
+    "autoload": {
+        "psr-4": {
+            "Casabuena\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "casabuena"
+        }
+    ],
+    "require": {}
+}
